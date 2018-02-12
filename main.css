@@ -1,0 +1,15 @@
+html {
+	font-family: -apple-system, 'Helvetica Neue', Helvetica, sans-serif;
+	text-rendering: optimizeLegibility;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	font-size: 15px;
+	list-style-type: none;
+	margin: 0;
+}
